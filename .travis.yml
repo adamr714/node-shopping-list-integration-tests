@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: OPiIX+wFJhagrhVzUclzxEbBu9tOeus8BlT2L+egmG/leVZlRMyqve9UBPAonEbZsx9GqGfPePgQFMJ1/R0U7ON+G+XdnhEzQp8Fv3siK9Id1dpUDyiAquJ2QiDmFxr12RNpUkcrKrgA/X5JcKLXRutRJKIhrAElast90BBG25JM0EL/IGAKPmlojEOwDI9MSkioj1hwMWuuiuckIlk0AWh8BIMq5rUYdu6QD806irE1HBEKwYAIvxQ31oHkshdvu57WrWsxnCd1Df5T0vHDkgYEBWcLaNIBjc6oU9L6MJf0d2ce4YhyJwG3qc634jUUfr9FcJPl+d+0QbBtKv7H5htZ1UXbaObzJYvzIcLGGrFQNH+TGPbPvaEMNGZ57xCydoKX8f28tTKmy0Yi7mYlSalZDmFsWc7gfNMC5MZKJNvvpG6nwXE2sy2uKoOwXvGSzcIxzhNUMMstZHvHvghsoPTeTzU/rJhc69WKchrQf5EZoBZoadWM4EPsG5jjFp7E44/t9i7dAqxQck8HOhaat5lpUV/0E+/XRCwv6hLxz79qMJswDa7vptE+JpekkSknOKk4tW70W3f9d+2xfBHs5+Kc2AX4bDiTbm5+Ds8oKzWUX0b2bvJwCv/cufWvXYniB8B6NNlbOE6BkWaSVNaWWWzCHTQtwcw8tH6oygYfuhs=
-  app: murmuring-reef
+  app: murmuring-reef-50593
   on:
     repo: adamr714/node-shopping-list-integration-tests
